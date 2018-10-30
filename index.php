@@ -8,7 +8,7 @@ if (isset($_POST["submit"])) {
 ?>
 <html>
 <head>
-<title>User Authentication</title>
+<title>User Authentication1</title>
 </head>
 <body>
 <?php
